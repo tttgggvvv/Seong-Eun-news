@@ -2,7 +2,7 @@
   <title>SeongEun news</title> <meta charset="utf-8">
 </head>
 <body>
-  <h1><a href="index.html">성은 뉴스</a></h1>
+  <h1>성은 뉴스</h1>
 
 <p><h2>2021년 7월호 성은신문 발간 </h2></p>
 2021년 7월 25일 성은신문이 발간되었다. 최근 인기를 끌고있는 프로그램 '나 혼자산다'
