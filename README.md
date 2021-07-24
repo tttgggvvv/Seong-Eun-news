@@ -12,7 +12,7 @@
 -이 기자-
 
   <h2><ol>
-      <li><a href="최성은">최성은 그녀는 누구인가?</a></li>
+      <li><a href="최성은.html">최성은 그녀는 누구인가?</a></li>
       <li><a href="운동.html">운동</a></li>
       <li><a href="식단.html">식단</a></li>
       <li><a href="화보.html">사진</a></li>
